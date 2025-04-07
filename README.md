@@ -18,10 +18,6 @@ The project demonstrates how to:
 - Evaluate attack effectiveness across different key bytes.
 - Perform attacks using trained models to recover AES key bytes.
 
-## 📁 Project Structure
-
-project/ ├── ASCAD_train_models_ed.py # Training script for MLP/CNN models ├── ASCAD_attack_ed.py # Attack execution using trained models ├── trained_models/ # Directory to save trained models ├── data/ # Folder to place ASCAD.h5 or desynced datasets ├── utils/ # Utility functions (loading, metrics, plotting) ├── requirements.txt # Python dependencies ├── README.md # This file └── REPORT.pdf # Detailed project documentation
-
 
 ## 🧠 Notes on Dataset and Attack Strategy
 
